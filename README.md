@@ -1,0 +1,1 @@
+Criar interfaces para upload de imagens com botões estilizados e campos ocultos. Utilizar JavaScript para manipular arquivos de forma assíncrona com `async/await`, `Promises`, e `FileReader`. Implementar validação e simulação de envio de formulários, tratamento de erros com `try/catch`, e delegação de eventos para otimizar o código.
